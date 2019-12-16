@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { STEP_ITEMS } from './constants/multi-step-form';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'banner';
+
 }
